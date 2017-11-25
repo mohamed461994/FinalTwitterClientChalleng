@@ -1,0 +1,6 @@
+framework module Pods_TwitterAppTask {
+  umbrella header "Pods-TwitterAppTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
